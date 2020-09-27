@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PedraPapelTesoura</string>
+    <string name="Padrao">Escolha uma das Opições abaixo</string>
+    <string name="TextPad">Escolha do app</string>
+
+    <string name="DescImg">IMG</string>
+</resources>
